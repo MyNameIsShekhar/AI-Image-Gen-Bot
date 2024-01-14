@@ -1,7 +1,7 @@
-api_id = int("your api id")
-api_hash = "your api hash"
-bot_token = "your bot token"
+api_id = int("24427150")
+api_hash = "9fcc60263a946ef550d11406667404fa"
+bot_token = "6716407100:AAGiFLrjLfjZGGg8cBsJrZfE2C-hfrcR7hg"
 
 MAX_GEN = 10
-MONGOURI = "Your MONGO DB URI"
-OWNER_ID = int("owner telegram id")
+MONGOURI = "mongodb+srv://shuyaaaaa12:NvpoBuRp7MVPcAYA@cluster0.q2yycqx.mongodb.net/"
+OWNER_ID = int("6765826972")
